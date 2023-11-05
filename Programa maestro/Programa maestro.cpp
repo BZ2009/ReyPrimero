@@ -53,7 +53,16 @@ int main()
 
 
 
+void Nivel2()
+{
+	cout << "Entrando a la Sala del Trono Rojo\n";
+	cout << "\n";
 
+
+
+
+
+}
 
 
 
