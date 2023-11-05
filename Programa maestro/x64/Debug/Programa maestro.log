@@ -1,0 +1,4 @@
+﻿  Programa maestro.cpp
+C:\Users\basti\OneDrive\Escritorio\Programa maestro\Programa maestro.cpp(178): warning C4717: 'nivel1': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+C:\Users\basti\OneDrive\Escritorio\Programa maestro\Programa maestro.cpp(113): warning C4717: 'hall': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  Programa maestro.vcxproj -> C:\Users\basti\OneDrive\Escritorio\Programa maestro\x64\Debug\Programa maestro.exe
