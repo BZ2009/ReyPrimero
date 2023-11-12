@@ -1,1 +1,2 @@
 C:\Users\basti\OneDrive\Escritorio\Programa maestro\x64\Debug\Programa maestro.exe
+C:\Users\basti\OneDrive\Documents\Github\ReyPrimero\Programa maestro\x64\Debug\Programa maestro.exe
